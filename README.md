@@ -4,7 +4,7 @@ spoof and shorten a URL instantly
 # Usage
 Pull repository
 ```
-git clone
+git clone https://github.com/blackmagic2023/urlspoofer.git
 ```
 Enter directory
 ```
